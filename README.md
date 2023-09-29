@@ -19,6 +19,9 @@ To make it easy for you to get started with GitHub, here's a list of recommended
 ## Copy the example env file and make the required configuration changes in the .env file
 - cp .env.example .env
 
+## Configure the rabbitMQ in the .env file
+ - QUEUE_CONNECTION=rabbitmq
+
 ## Add the configuration for RabbitMQ in .env file
   RABBITMQ_HOST=
   RABBITMQ_PORT=5672
