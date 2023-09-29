@@ -8,7 +8,7 @@ To make it easy for you to get started with GitHub, here's a list of recommended
 - MySQL 8.0.30
 
 ## Clone the repository
-- git clone https://github.com/kalpana-devitpl/rabbitmq.git
+- git clone https://github.com/kalpana-devitpl/rabbitmq-admin.git
 
 ## Switch to the repo folder
 - cd memcached
