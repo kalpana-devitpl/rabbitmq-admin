@@ -45,9 +45,9 @@ To make it easy for you to get started with GitHub, here's a list of recommended
  - php artisan config:clear
    
 ## Start the local development server
-- php artisan serve
-- php artisan queue:work (run this command in new terminal of the project directory)
-You can now access the server at http://127.0.0.1:8000 
+- php artisan serve --port=8082
+
+You can now access the server at http://127.0.0.1:8000. and open the postman and import the API collection from here
 
 ## Note: If you got the "Please provide a valid cache path" error then run the command on the terminal: rm -rf bootstrap/cache/config.php
 
